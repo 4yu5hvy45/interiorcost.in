@@ -1,0 +1,7 @@
+{
+  "name": " InteriorCost.in",
+  "description": "An AI-powered home glow-up assistant designed for the reality of Indian homes — focused on energy, mood, and clarity without the need for expensive renovations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
